@@ -7,7 +7,7 @@ Focused on backend engineering, REST API development, and modern full-stack tech
 💡 Technical Skills
 
 🐍 Languages  
-Python, Javascript, CSS
+Python, Javascript
 
 ⚛️ Frameworks & Libraries  
 Django, Django REST Framework, React js
