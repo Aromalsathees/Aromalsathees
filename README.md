@@ -18,9 +18,6 @@ MySQL, PostgreSQL, Mongodb
 ⚙️ DevOps & Cloud  
 Docker (Containerization), GitHub Actions (CI/CD), Linode
 
-🚀 Deployment Platforms  
-Render, Vercel
-
 🧰 Version Control & Tools  
 Git, GitHub, Postman
 
