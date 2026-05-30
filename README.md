@@ -8,13 +8,13 @@ Focused on backend engineering, REST API development, and modern full-stack tech
 
 🐍 Languages - Python, Javascript
 
-⚛️ Frameworks & Libraries - Django, Django REST Framework, Flask, FastAPI React js
+⚛️ Frameworks & Libraries - Django, Django REST Framework, Flask, FastAPI, React js
 
 🛢️ Databases - MySQL, PostgreSQL, Mongodb
 
 ⚙️ DevOps & Cloud - Docker (Containerization), GitHub Actions (CI/CD), Linode
 
-🏗️ Development Experience - REST API Development, Authentication Systems, Full-Stack Web Applications, Responsive UI Development
+🏗️ Development Experience - REST API Development, Full-Stack Web Applications, Responsive UI Development
 
 🚀 Core Focus
 
