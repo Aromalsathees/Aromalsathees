@@ -1,28 +1,34 @@
-## 👋 About
+👋 About Me
 
-Self-taught Python developer passionate about building scalable, maintainable, and user-centric web applications.
+I build AI-powered backend systems and teach developers to build them too.
 
-Focused on backend engineering, REST API development, and modern full-stack technologies with a strong interest in creating production-ready software solutions.
+Python | Django | Agentic AI | RAG
+
+I specialize in backend development, REST API development, and full-stack web technologies, with a growing focus on Agentic AI and LLM-powered applications. I enjoy solving real-world problems and building reliable software with clean architecture and practical functionality.
 
 💡 Technical Skills
 
-🐍 Languages - Python, Javascript
-
-⚛️ Frameworks & Libraries - Django, Django REST Framework, Langchain, Flask, FastAPI, React js
-
-🛢️ Databases - MySQL, PostgreSQL, Mongodb
-
-⚙️ DevOps & Cloud - Docker (Containerization), GitHub Actions (CI/CD), Linode
-
-🏗️ Development Experience - REST API Development, Full-Stack Web Applications, LLM Powered AI systems, responsive UI Development
+- 🐍 Languages: Python, JavaScript
+- ⚛️ Frameworks & Libraries: Django, Django REST Framework, Flask, FastAPI, React.js, LangChain
+- 🛢️ Databases: MySQL, PostgreSQL, Redis, ChromaDB
+- 🤖 AI & LLMs: Agentic AI, RAG, LLM-powered applications, multi-agent systems
+- ⚙️ DevOps & Cloud: Docker, GitHub Actions (CI/CD), Linode
+- 🏗️ Development: REST API Development, Full-Stack Applications, Responsive UI Development, Real-Time Data Streaming
 
 🚀 Core Focus
 
-Focused on building applications that are:
+I aim to build applications that are:
 
-⚡ Fast and optimized  
-🔒 Secure and reliable  
-🧩 Scalable and maintainable  
-🎯 User-focused and responsive
+- ⚡ Fast and optimized
+- 🔒 Secure and reliable
+- 🧩 Scalable and maintainable
+- 🎯 User-focused and responsive
 
-Projects are built with an emphasis on clean architecture, performance optimization, and real-world problem-solving.
+I emphasize clean code, performance optimization, maintainable architecture, and real-world problem-solving while continuously learning and exploring new technologies.
+
+🎯 Currently Exploring
+
+- Building intelligent applications with Agentic AI
+- Designing reliable backend systems and REST APIs
+- Developing AI-powered solutions using LLMs and RAG
+- Improving deployment workflows with Docker and CI/CD
