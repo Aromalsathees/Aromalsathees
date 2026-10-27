@@ -125,18 +125,6 @@ As a Full-Stack Trainer at Techolas, I help aspiring developers strengthen their
 - Improving deployment and CI/CD practices
 - Sharing practical programming knowledge with developers
 
----
-
-📊 GitHub at a Glance
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aromalsatheesh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aromalsatheesh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aromalsatheesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aromalsatheesh&style=flat-square&color=blue" alt="Profile views"/>
-</p>
 
 🤝 Let's Connect
 
