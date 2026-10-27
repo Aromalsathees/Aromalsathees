@@ -5,7 +5,7 @@ Software Developer · Python & Django · Agentic AI
 I build AI-powered backend systems and teach developers to build them too. I enjoy turning real-world problems into practical software solutions using Python, Django, REST APIs, and intelligent AI systems.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0000FF&vCenter=true&width=650&lines=Software+Developer;Python+Developer;Django+Developer;AI+%26+Agentic+AI+Developer;Full+Stack+Developer;Technical+Trainer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=#6b989c&vCenter=true&width=650&lines=Software+Developer;AI+%26+Agentic+AI+Developer;Python+Developer;Full+Stack+Developer;Technical+Trainer;Research+and+Development" alt="Typing Animation" />
 </p>
 
 <p align="center">
