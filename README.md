@@ -4,6 +4,10 @@ Python Developer · Django · Agentic AI
 
 I build AI-powered backend systems and teach developers to build them too. I enjoy turning real-world problems into practical software solutions using Python, Django, REST APIs, and intelligent AI systems.
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0000FF&vCenter=true&width=650&lines=Software+Engineer;Python+Developer;Django+Developer;AI+%26+Agentic+AI+Developer;Full+Stack+Developer;Technical+Trainer" alt="Typing Animation" />
+</p>
+
 <p align="center">
   <a href="https://arocode.vercel.app">
     <img src="https://img.shields.io/badge/🌐_WEBSITE-arocode.vercel.app-2563EB?style=for-the-badge" alt="Portfolio"/>
@@ -19,7 +23,7 @@ I build AI-powered backend systems and teach developers to build them too. I enj
 $ whoami
 
 class AromalSatheesh:
-  
+    
     def __init__(self):
         self.role = "Python Developer & Technical Trainer"
         self.primary_stack = [
