@@ -14,12 +14,12 @@ I build AI-powered backend systems and teach developers to build them too. I enj
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>---
+</p>
 
 $ whoami
 
 class AromalSatheesh:
-
+  
     def __init__(self):
         self.role = "Python Developer & Technical Trainer"
         self.primary_stack = [
@@ -38,7 +38,7 @@ class AromalSatheesh:
 
     def say_hello(self):
         return "Let's build something meaningful! 🚀"
----
+
 
 🛠️ Tech Stack
 
@@ -66,7 +66,7 @@ Databases, Cloud & DevOps
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,docker,aws,nginx,linux,git,github,githubactions" alt="PostgreSQL, MySQL, SQLite, Docker, AWS, Nginx, Linux, Git and GitHub Actions"/>
 </p>PostgreSQL · MySQL · MongoDB · SQLite · Docker · Linux · Git · GitHub Actions · CI/CD · Linode
 
----
+
 
 🧠 AI & Software Projects
 
@@ -94,7 +94,7 @@ Currently developing an AI-powered system designed to streamline institute opera
 
 Tech: Python · Django · AI Integrations
 
----
+
 
 🎓 Teaching & Knowledge Sharing
 
@@ -115,7 +115,7 @@ As a Full-Stack Trainer at Techolas, I help aspiring developers strengthen their
   <a href="https://github.com/Aromalsatheesh">
     <img src="https://img.shields.io/badge/GITHUB-AROMALSATHEESH-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
   </a>
-</p>---
+</p>
 
 🎯 Current Focus
 
@@ -136,7 +136,7 @@ As a Full-Stack Trainer at Techolas, I help aspiring developers strengthen their
   <img src="https://streak-stats.demolab.com?user=Aromalsatheesh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aromalsatheesh&style=flat-square&color=blue" alt="Profile views"/>
-</p>---
+</p>
 
 🤝 Let's Connect
 
@@ -154,7 +154,7 @@ If you're working on something interesting with Python, Django, FastAPI, or AI, 
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-</p>---
+</p>
 
 <p align="center">
   <i>"Build. Break. Learn. Improve. Repeat." 🚀</i>
