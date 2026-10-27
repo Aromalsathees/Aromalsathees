@@ -1,6 +1,6 @@
 Hey, I'm Aromal 👋
 
-Software Developer · Python & Django · Agentic AI
+Software Developer · Python, Django, FastAPI· Agentic AI
 
 I build AI-powered backend systems and teach developers to build them too. I enjoy turning real-world problems into practical software solutions using Python, Django, REST APIs, and intelligent AI systems.
 
