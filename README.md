@@ -113,14 +113,6 @@ As a Full-Stack Trainer at Techolas, I help aspiring developers strengthen their
 - 🌐 Full-stack development with React
 - 💻 Practical programming and project development
 
-<p align="left">
-  <a href="https://arocode.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_WEBSITE-arocode.vercel.app-2563EB?style=for-the-badge" alt="Portfolio Website"/>
-  </a>
-  <a href="https://github.com/Aromalsatheesh">
-    <img src="https://img.shields.io/badge/GITHUB-AROMALSATHEESH-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-</p>
 
 🎯 Current Focus
 
@@ -141,14 +133,14 @@ If you're working on something interesting with Python, Django, FastAPI, or AI, 
   <a href="https://arocode.vercel.app">
     <img src="https://img.shields.io/badge/VISIT-PORTFOLIO-2563EB?style=for-the-badge&logo=vercel" alt="Visit portfolio"/>
   </a>
-  <a href="https://github.com/Aromalsatheesh">
+  <a href="https://github.com/Aromalsathees">
     <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/aromal-satheesh/">
     <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
-
+         
 <p align="center">
   <i>"Build. Break. Learn. Improve. Repeat." 🚀</i>
 </p>
