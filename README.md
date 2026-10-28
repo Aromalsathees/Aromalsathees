@@ -13,14 +13,14 @@ I build AI-powered backend systems and teach developers to build them too. I enj
   <a href="https://arocode.vercel.app">
     <img src="https://img.shields.io/badge/🌐_WEBSITE-arocode.vercel.app-2563EB?style=for-the-badge" alt="Portfolio"/>
   </a>
-  <a href="https://github.com/Aromalsatheesh">
+  <a href="https://github.com/Aromalsathees">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/aromal-satheesh/">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
-
+         
 $ whoami
 
 class AromalSatheesh:
